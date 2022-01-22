@@ -62,7 +62,7 @@ restart.addImage(restartimg);
 }
 
 function draw() {
-  background("black");
+  background("white");
   text("Score: "+ score, 500,50);
   
   
